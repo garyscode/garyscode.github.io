@@ -1,5 +1,5 @@
 ---
-title:  'Blogging With...Purpose'
+title:  "Blogging With Purpose"
 date:   2017-01-21
 categories: [Purpose]
 tags: [jekyll]
