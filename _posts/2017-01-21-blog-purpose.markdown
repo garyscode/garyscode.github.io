@@ -1,12 +1,13 @@
 ---
-title:  "Blogging With Purpose"
-date:   2017-01-21
-categories: [Purpose]
+title:  "Welcome to Jekyll!"
+date:   2016-01-08 15:04:23
+categories: [jekyll]
 tags: [jekyll]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
 
 **I'm going to blog.**  I have been mulling the idea of a blog for a while now.  But then I asked myself WHY, and couldn't really find a reason.  In the end, it was just something else in my life that would be pitting itself against the minutes I have left on earth.  Ultimately, I knew it would be a failure.  **Enter purpose...**
 
