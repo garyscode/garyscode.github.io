@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: Gary Bryant
+description: 'Keep Calm And Gary On'
+url: 'http://www.garybryant.me/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Gary Bryant'
+  email: code@garybryant.me
+  twitter_username: gabbered
+  facebook_username: gary.bryant.3914
+  github_username:  garyscode
+  linkedin_username:  gary-bryant-7b89b557
 
 defaults:
   -
