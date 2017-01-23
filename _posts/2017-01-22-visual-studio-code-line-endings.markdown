@@ -1,5 +1,5 @@
 ---
-title:  "Visual Studio Code Line Endings"
+title:  "Visual Studio Code Line Endings Issues"
 date:   2017-01-22
 categories: [Visual studio code, editor, line endings]
 tags: [garybryant.me, crlf, /n, /r/n, eolm, Default End of Line Sequence, visual studio code]
