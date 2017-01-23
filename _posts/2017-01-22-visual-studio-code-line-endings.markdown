@@ -5,7 +5,7 @@ categories: [Visual studio code, editor, line endings]
 tags: [garybryant.me, crlf, /n, /r/n, eolm, Default End of Line Sequence, visual studio code]
 ---
 
-#Issue blogging with Jekyll and Visual Studio Code
+**Issue blogging with Jekyll and Visual Studio Code**
 
 I ran into an issue with my new blog.  It's supposed to use the first paragraph as the teaser, but only show the full blog once the title is clicked.  But it was showing the whole thing...
 
