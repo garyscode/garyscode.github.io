@@ -3,8 +3,8 @@ title: Gary Bryant
 description: 'Keep Calm And Gary On'
 url: 'http://www.garybryant.me/'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-91735523-1'
+disqus_shortname: 'garyscode'
 
 author:
   name: 'Gary Bryant'
