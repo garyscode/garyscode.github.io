@@ -1,0 +1,27 @@
+.books{
+    display: inline-block;
+    margin: 20px;
+    width: 100%;    
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+}
+
+.book {
+    width: 65%;
+    float: left;
+    font-style: italic;
+    font-size: 16px;
+    color: black;
+}
+
+.book h3{
+    color: gray;
+    padding-bottom: 20px;
+}
+
+.book-link {
+    width: 30%; 
+    float: left;
+}
+
