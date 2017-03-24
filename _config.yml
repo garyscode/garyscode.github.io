@@ -1,6 +1,6 @@
 # Site settings
 title: Gary Bryant
-description: '{{ Keep Calm And Gary On }}'
+description: '- Keep Calm And Gary On -'
 url: 'http://www.garybryant.me/'
 baseurl: '/'
 google_analytics: 'UA-91735523-1'
