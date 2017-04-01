@@ -11,11 +11,11 @@ layout: bio
 
 #### Writer of blogs ([although it's mostly a soliloquy](..\#blog))  ####
 
-#### Reader of books ([Technical, fictional, or whatever](..\books))  ####
+#### Reader of books ([Technical, fictional, comical, self help or whatever...](..\books))  ####
   
 #### User of keys (cars, computers, crptographic)  ####  
   
-#### Bilingual ([but all in English and relating to computers](https://github.com/garyscode))  ####  
+#### Bilingual ([but all English and relating to computers](https://github.com/garyscode))  ####  
   
 #### Combiner of crazy ideas (javascript + HTML)  ####  
   
