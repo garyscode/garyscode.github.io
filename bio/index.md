@@ -7,13 +7,15 @@ layout: bio
   
 #### Haver of family (very proud)  ####
   
-#### Runner of races (life and otherwise)  ####  
+#### Runner of races (life and [otherwise](http://okcmarathon.com/))  ####  
 
-#### Writer of blogs (although it's mostly a soliloquy)  ####
+#### Writer of blogs ([although it's mostly a soliloquy](..\#blog))  ####
+
+#### Reader of books ([Technical, fictional, or whatever](..\books))  ####
   
 #### User of keys (cars, computers, crptographic)  ####  
   
-#### Bilingual (but all in English and relating to computers)  ####  
+#### Bilingual ([but all in English and relating to computers](https://github.com/garyscode))  ####  
   
 #### Combiner of crazy ideas (javascript + HTML)  ####  
   
