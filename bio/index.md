@@ -19,7 +19,7 @@ layout: bio
   
 #### Combiner of crazy ideas (javascript + HTML)  ####  
   
-#### Eater of food (preferrs the good versions)  ####  
+#### Eater of food (prefers the good versions)  ####  
 <BR>
 <h4><a href="..\resume">Gary also has a resume...</a> </h4>
 
