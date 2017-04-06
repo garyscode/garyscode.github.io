@@ -6,9 +6,9 @@ tags: [garybryant.me, github user pages, static generated]
 ---
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@garyscode" />
-<meta name="twitter:url" content="http://www.garybryant.me/#blog" />
-<meta name="twitter:title" content="Keep Calm And Gary On" />
-<meta name="twitter:description" content="Tech blog: tech, life, and whatever..." />
+<meta name="twitter:url" content="http://www.garybryant.me/2017/Github-user-pages-are-awesome/" />
+<meta name="twitter:title" content="Github user pages are awesome!" />
+<meta name="twitter:description" content="I love using Github/Jekyll for blogging!" />
 <meta name="twitter:image" content="http://www.garybryant.me/images/twitter/Programming-Edit-Property-icon.jpg" />
 
 **I love using Github/Jekyll for blogging!**
