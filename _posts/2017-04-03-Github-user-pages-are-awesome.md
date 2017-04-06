@@ -4,6 +4,12 @@ date:   2017-04-03
 categories: [blogging, github, github user pages]
 tags: [garybryant.me, github user pages, static generated]
 ---
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@garyscode" />
+<meta name="twitter:url" content="http://www.garybryant.me/#blog" />
+<meta name="twitter:title" content="Keep Calm And Gary On" />
+<meta name="twitter:description" content="Tech blog: tech, life, and whatever..." />
+<meta name="twitter:image" content="http://www.garybryant.me/images/twitter/Programming-Edit-Property-icon.jpg" />
 
 **I love using Github/Jekyll for blogging!**
 
