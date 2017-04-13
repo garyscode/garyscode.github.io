@@ -2,6 +2,16 @@
 layout: null
 ---
 $(document).ready(function () {
+  const WIDTH_TRESHOLD = 960
+  function setInitialPanelState() {
+    currentWidth = $('.panel-cover').width()
+    if (currentWidth < WIDTH_TRESHOLD) {
+      $('.panel-cover').addClass('panel-cover--collapsed')
+      $('.panel-cover__description').css('display', 'block')
+    }
+  }
+  setInitialPanelState();
+
   $('a.blog-button').click(function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
