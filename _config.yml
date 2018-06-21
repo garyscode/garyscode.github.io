@@ -2,7 +2,7 @@
 title: Gary Bryant
 description: '- Keep Calm And Gary On -'
 url: 'http://www.garybryant.me/'
-baseurl: '/'
+baseurl: '/jekyll-uno'
 google_analytics: 'UA-91735523-1'
 disqus_shortname: 'garyscode'
 
@@ -39,11 +39,15 @@ permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
 
+sass:
+    sass_dir: _sass
+    style: compressed
+
 kramdown:
   # use Github Flavored Markdown
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

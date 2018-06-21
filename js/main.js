@@ -1,6 +1,9 @@
 ---
 layout: null
+sitemap:
+  exclude: 'yes'
 ---
+
 $(document).ready(function () {
   const WIDTH_TRESHOLD = 960
   function setInitialPanelState() {
@@ -28,7 +31,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
+  if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
